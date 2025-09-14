@@ -1,12 +1,13 @@
-## Hi there 👋
+## We are transitIOM
 
-<!--
+### Our goal make sure you never have to look at a pdf timetable again.
+Having dealt with the horrible task of searching through the Bus Vannin website to get the right timetable, we had enough.
+We have set out to make a mobile app, where all you have to do it enter a destination, and it will guide you.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Features
+- Mobile friendly interface, saves zooming into PDFs
+- Simple journey planner
+  - Figures out what busses to take for you
+  - Supports transfers
+- Everything you need to get around in one place
+- Free and Open Source
