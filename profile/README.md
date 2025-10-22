@@ -8,7 +8,7 @@
 </a>
 
 ### Our goal make sure you never have to look at a pdf timetable again.
-Having dealt with the horrible task of searching through the Bus Vannin website to get the right timetable, we had enough.
+At the moment, the only way to look for buses on the Isle of Man is using the static PDFs.
 We have set out to make a mobile app, where all you have to do it enter a destination, and it will guide you.
 
 ### Features
