@@ -7,6 +7,9 @@
   <img height="30" alt="Website" src="https://github.com/user-attachments/assets/e1b6ac69-1bba-4560-90fb-b30fc8edfbdd" />
 </a>
 
+> [!IMPORTANT]
+> We're moving to Codeberg. Check it out at https://codeberg.org/transitIOM.
+
 ### Our goal is to make sure you never have to look at a pdf timetable again.
 At the moment, the only way to look for buses on the Isle of Man is using the static PDFs.
 We have set out to make a mobile app, where all you have to do it enter a destination, and it will guide you.
