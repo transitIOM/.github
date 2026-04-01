@@ -1,4 +1,8 @@
 ## We are transitIOM
+> [!IMPORTANT]
+> We're moving to Codeberg. Check it out at https://codeberg.org/transitIOM.
+
+
 
 <a href="https://go.transitIOM.com/bsky" >
   <img height="30" alt="Bluesky" href="https://go.transitIOM.com/bsky" src="https://github.com/user-attachments/assets/98e7389e-75c7-4ab4-ad50-a18006cb9e2b" />
@@ -6,9 +10,6 @@
 <a href="https://transitIOM.com/" >
   <img height="30" alt="Website" src="https://github.com/user-attachments/assets/e1b6ac69-1bba-4560-90fb-b30fc8edfbdd" />
 </a>
-
-> [!IMPORTANT]
-> We're moving to Codeberg. Check it out at https://codeberg.org/transitIOM.
 
 ### Our goal is to make sure you never have to look at a pdf timetable again.
 At the moment, the only way to look for buses on the Isle of Man is using the static PDFs.
