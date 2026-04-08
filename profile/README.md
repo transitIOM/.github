@@ -1,6 +1,6 @@
 ## We are transitIOM
 > [!IMPORTANT]
-> We're moving to Codeberg. Check it out at https://codeberg.org/transitIOM.
+> We've moved to Codeberg! Check it out at https://codeberg.org/transitIOM.
 
 
 
